@@ -13,3 +13,8 @@ Code for a cause is a cool club
 
 :D
 * connor moynihan
+
+
+> It was the best of times, it was the worst of times
+
+*Darren Weng*, **Master of the world**, __Best freshmen__
