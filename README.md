@@ -1,4 +1,4 @@
-# Welcome to code for a cause
+# Welcome to Code for a Cause
 
 ### We're sure you're gonna love it
 
@@ -9,3 +9,5 @@ Code for a cause is a cool club
 * darrren weng
 
 *connor moynihan
+
+:D
